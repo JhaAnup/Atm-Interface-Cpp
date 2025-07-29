@@ -1,2 +1,14 @@
-# Atm-Interface-Cpp
-💳 A C++ console-based ATM interface with account authentication, balance check, withdrawals, deposits, and optional transaction log. Built for Brainwave Matrix Internship Task 1.
+# 💳 ATM Interface in C++
+
+A simple C++ console-based ATM simulation with basic banking features.
+
+## ✅ Features
+- Account authentication
+- Balance check
+- Deposit & withdrawal
+- Transaction log (optional, using file handling)
+
+## 🛠️ How to Compile and Run
+```bash
+g++ main.cpp -o atm
+./atm
